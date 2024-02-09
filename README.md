@@ -5,4 +5,4 @@
 Aquest repositori conté _notebooks_ amb teoria i exercicis pràctics que complementen els materials disponibles al campus virtual.
 
 Índex de continguts:
-- [M1](./M1): _Notebooks_ del mòdul1, repàs de programació estructurada.
+- [M1](./M1): _Notebooks_ del __mòdul1__, repàs de programació estructurada.
