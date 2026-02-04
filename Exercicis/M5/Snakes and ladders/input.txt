@@ -1,0 +1,14 @@
+[Jugadors]
+Maria
+Abel
+Nuria
+Joan
+[Caselles]
+12
+[Serps]
+10,5
+[Escales]
+2,6
+7,9
+[Dau]
+2,5,4,4,1,4,6,6,5,1,6

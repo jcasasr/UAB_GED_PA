@@ -1,0 +1,5 @@
+Python is an easy to learn, powerful programming language. It is 
+an ideal language for scripting and rapid application development 
+in many areas on most platforms. It has efficient high-level 
+data structures and a simple but effective approach to 
+object-oriented programming.
